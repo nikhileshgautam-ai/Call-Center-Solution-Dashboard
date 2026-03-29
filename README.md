@@ -54,8 +54,8 @@ This dashboard provides a comprehensive overview of call center operations to en
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](images/dashboard1.png)
-![Filtered View](images/dashboard2.png)
+![Dashboard Overview](dashboard1.png)
+![Filtered View](dashboard2.png)
 
 ---
 
